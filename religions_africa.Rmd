@@ -6,7 +6,6 @@ output: html
 ---
 
 ```{r Setup, warning=FALSE, message=FALSE}
-encoding: UTF-8
 library(sf)
 library(ggplot2)
 library(tidyverse)
